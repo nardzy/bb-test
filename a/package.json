@@ -1,0 +1,15 @@
+{
+  "name": "a",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rspack dev",
+    "build": "rspack build",
+    "preview": "rspack preview"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^1.6.7",
+    "@rspack/core": "^1.6.7",
+    "typescript": "^5.9.3"
+  }
+}
